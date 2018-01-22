@@ -476,7 +476,7 @@ public class tellerFrame extends javax.swing.JFrame {
 
         titleLabel.setFont(new java.awt.Font("Tahoma", 1, 36)); // NOI18N
         titleLabel.setForeground(new java.awt.Color(255, 255, 255));
-        titleLabel.setText("Judul menu");
+        titleLabel.setText("Jaaaudul menu");
         titleLabel.setToolTipText("");
 
         jLabel7.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
